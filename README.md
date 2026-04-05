@@ -2,9 +2,9 @@
 Detección y seguimiento de vasos en tiempo real con OpenCV y YOLOv8, incluyendo conteo dinámico y análisis por regiones.
 
 
-# 🥤 Detección y seguimiento de vasos en video
+# Detección y seguimiento de vasos en video
 
-## 📌 Descripción
+## Descripción
 Este proyecto consiste en el procesamiento de un video casero en el que se detectan 10 vasos. Para cada uno de ellos se definieron áreas delimitadas, representadas por recuadros de color verde.
 
 Cuando un vaso se encuentra dentro de su área correspondiente, se muestra un recuadro adicional de color azul indicando su presencia. En caso de que el vaso sea retirado, solo permanece visible el recuadro verde.
@@ -17,7 +17,7 @@ En la esquina superior izquierda se muestra en tiempo real la cantidad de vasos 
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - Python
 - OpenCV
 - YOLOv8 (Ultralytics)
@@ -26,7 +26,7 @@ En la esquina superior izquierda se muestra en tiempo real la cantidad de vasos 
 
 ---
 
-## 🎥 Ejemplo
+## Ejemplo
 ![Captura del video](https://github.com/andreajurado-data/Procesamiento_de_im-genes/blob/main/Procesamiento_de_im%C3%A1genes.png?raw=true)
 
 
