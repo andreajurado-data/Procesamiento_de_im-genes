@@ -27,6 +27,6 @@ En la esquina superior izquierda se muestra en tiempo real la cantidad de vasos 
 ---
 
 ## 🎥 Ejemplo
-![Captura del video]((https://github.com/andreajurado-data/Procesamiento_de_im-genes/blob/main/Procesamiento_de_im%C3%A1genes.png?raw=true))
+![Captura del video](https://github.com/andreajurado-data/Procesamiento_de_im-genes/blob/main/Procesamiento_de_im%C3%A1genes.png?raw=true)
 
 
